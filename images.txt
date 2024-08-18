@@ -7,3 +7,4 @@
 docker.m.daocloud.io/hcyxsmile/obsidian-docker:v1.0-ob1.3.5
 docker.m.daocloud.io/amorphobia/chfs:latest
 docker.m.daocloud.io/vaultwarden/server:latest
+docker.m.daocloud.io/captainji/jupyterlab
