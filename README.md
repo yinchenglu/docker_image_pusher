@@ -28,7 +28,7 @@ https://cr.console.aliyun.com/<br>
 
 
 ### Fork本项目
-Fork本项目<br>
+登录github，Fork本项目为自己的项目（点击右上角的fork）<br>
 #### 启动Action
 进入您自己的项目，点击Action，启用Github Action功能<br>
 #### 配置环境变量
@@ -37,6 +37,7 @@ Fork本项目<br>
 将上一步的**四个值**<br>
 ALIYUN_NAME_SPACE,ALIYUN_REGISTRY_USER，ALIYUN_REGISTRY_PASSWORD，ALIYUN_REGISTRY<br>
 配置成环境变量
+连续添加4个，上面的名称填ALIYUN_NAME_SPACE，下面填对应的值。
 
 ### 添加镜像
 打开images.txt文件，添加你想要的镜像 
