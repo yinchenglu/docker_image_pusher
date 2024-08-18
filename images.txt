@@ -4,6 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-1panel.live/hcyxsmile/obsidian-docker:v1.0-ob1.3.5
-1panel.live/amorphobia/chfs:latest
-1panel.live/vaultwarden/server:latest
+docker.m.daocloud.io/hcyxsmile/obsidian-docker:v1.0-ob1.3.5
+docker.m.daocloud.io/amorphobia/chfs:latest
+docker.m.daocloud.io/vaultwarden/server:latest
