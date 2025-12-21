@@ -9,4 +9,4 @@ docker.m.daocloud.io/amorphobia/chfs:latest
 docker.m.daocloud.io/vaultwarden/server:latest
 docker.m.daocloud.io/captainji/jupyterlab
 linuxserver/obsidian
-docker.1ms.run/shynome/cobweb:v3.1.2
+shynome/cobweb:v3.1.2
